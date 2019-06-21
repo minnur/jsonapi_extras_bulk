@@ -1,0 +1,4 @@
+jsonapi.settings.extras.bulk:
+  route_name: jsonapi.settings.extras.bulk
+  title: 'Bulk operations'
+  parent_id: jsonapi.settings.extras

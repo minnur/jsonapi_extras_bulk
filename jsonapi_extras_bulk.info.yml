@@ -1,0 +1,8 @@
+name: JSON:API Bulk operations
+type: module
+description: Enable or disable JSON resources in bulk
+core: 8.x
+package: Web services
+dependencies:
+  - jsonapi:jsonapi
+  - jsonapi_extras:jsonapi_extras

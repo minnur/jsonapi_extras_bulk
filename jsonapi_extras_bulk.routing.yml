@@ -1,0 +1,7 @@
+jsonapi.settings.extras.bulk:
+  path: '/admin/config/services/jsonapi/extras/bulk'
+  defaults:
+    _form: '\Drupal\jsonapi_extras_bulk\Form\JsonapiExtrasBulkOpsForm'
+    _title: 'JSON:API Bulk operations'
+  requirements:
+    _permission: 'administer site configuration'
